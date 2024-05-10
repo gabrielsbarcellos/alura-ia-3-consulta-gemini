@@ -1,0 +1,1 @@
+# alura-ia-3-consulta-gemini
